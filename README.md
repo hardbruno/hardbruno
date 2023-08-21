@@ -1,0 +1,4 @@
+- 👋 Oi, eu sou o @hardbruno
+- 👀 Tenho interesse em aprender mais sobre linguagem de programação
+- 🌱 Atualmente estou aprendendo HTML e CSS3
+- 💞️ Procuro colaboração em pessoas que estão disposta a me ajudar e ensinar
